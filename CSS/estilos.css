@@ -77,6 +77,15 @@ main{
     text-decoration:none;
 }
 
+.mobile-image{
+    display:none;
+    width:100%;
+    max-width:480px;
+    margin:24px auto 0;
+    border-radius:18px;
+    box-shadow:0 14px 30px rgba(0,0,0,.12);
+}
+
 section{
     margin-bottom:40px;
 }
@@ -172,6 +181,10 @@ footer{
     .menu{
         flex-direction:column;
         align-items:center;
+    }
+
+    .mobile-image{
+        display:block;
     }
 
     .comparacao{
