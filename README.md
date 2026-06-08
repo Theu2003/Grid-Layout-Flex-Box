@@ -97,8 +97,7 @@ Desvantagens:
 
 
 ### Tela Desktop
-<img width="500" alt="Captura de tela 2026-06-08 011628" src="https://github.com/user-attachments/assets/9ee1beb9-f682-4a32-8233-aa6aea50cd86" />
-<img width="500" alt="Captura de tela 2026-06-08 011651" src="https://github.com/user-attachments/assets/88b34a00-025b-4ade-8782-e8778d21be3d" />
+<img width="500" alt="Captura de tela 2026-06-08 011628" src="https://github.com/user-attachments/assets/9ee1beb9-f682-4a32-8233-aa6aea50cd86" /><img width="500" alt="Captura de tela 2026-06-08 011651" src="https://github.com/user-attachments/assets/88b34a00-025b-4ade-8782-e8778d21be3d" />
 ### Tela Mobile
 <img width="300" alt="Captura de tela 2026-06-08 004456" src="https://github.com/user-attachments/assets/2ad70784-4d71-4464-92ab-f1069fc161d2" /> <img width="300" alt="Captura de tela 2026-06-08 004519" src="https://github.com/user-attachments/assets/8f4fadfd-c128-4861-b579-2cacf434db74" />
 
