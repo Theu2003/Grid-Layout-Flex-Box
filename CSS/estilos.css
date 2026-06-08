@@ -10,47 +10,13 @@ body{
     color:#111;
 }
 
-.container{
-    display:grid;
-
-    grid-template-areas:
-    "header header"
-    "sidebar main"
-    "footer footer";
-
-    grid-template-columns:250px 1fr;
-
-    min-height:100vh;
-}
-
 header{
-    grid-area:header;
     background:#2563eb;
     color:white;
     padding:20px;
 }
 
-.menu{
-    display:flex;
-    justify-content:center;
-    gap:20px;
-    margin-top:15px;
-}
-
-.menu a{
-    color:white;
-    text-decoration:none;
-    font-weight:bold;
-}
-
-aside{
-    grid-area:sidebar;
-    background:white;
-    padding:20px;
-}
-
 main{
-    grid-area:main;
     padding:20px;
 }
 
@@ -152,37 +118,6 @@ section{
     border-radius:10px;
 }
 
-.comparacao{
-    display:grid;
-    grid-template-columns:1fr 1fr;
-    gap:20px;
-}
-
-.grid-mini{
-    display:grid;
-    grid-template-columns:repeat(2,1fr);
-    gap:10px;
-}
-
-.grid-mini div{
-    background:#93c5fd;
-    padding:20px;
-    text-align:center;
-}
-
-.flex-mini{
-    display:flex;
-    flex-wrap:wrap;
-    gap:10px;
-}
-
-.flex-mini div{
-    flex:1 1 100px;
-    background:#c4b5fd;
-    padding:20px;
-    text-align:center;
-}
-
 .dashboard{
     display:grid;
     grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
@@ -209,22 +144,6 @@ section{
     padding:25px;
     border-radius:10px;
     text-align:center;
-}
-
-table{
-    width:100%;
-    border-collapse:collapse;
-}
-
-th,td{
-    border:1px solid #ccc;
-    padding:12px;
-    text-align:center;
-}
-
-th{
-    background:#2563eb;
-    color:white;
 }
 
 footer{
