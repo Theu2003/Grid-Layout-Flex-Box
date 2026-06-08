@@ -100,8 +100,9 @@ Desvantagens:
 ![Desktop](https://chatgpt.com/c/imagens/tela-inicial.png)
 
 ### Tela Mobile
-[Mobile 1]<img width="200" alt="Captura de tela 2026-06-08 004456" src="https://github.com/user-attachments/assets/2ad70784-4d71-4464-92ab-f1069fc161d2" />
-![Mobile 2](Imagem/Captura de tela 2026-06-08 004456.png)
+<img width="661" height="723" alt="Captura de tela 2026-06-08 004519" src="https://github.com/user-attachments/assets/8f4fadfd-c128-4861-b579-2cacf434db74" />
+<img width="200" alt="Captura de tela 2026-06-08 004456" src="https://github.com/user-attachments/assets/2ad70784-4d71-4464-92ab-f1069fc161d2" />
+
 
 ---
 
