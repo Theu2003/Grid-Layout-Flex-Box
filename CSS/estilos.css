@@ -125,7 +125,7 @@ section{
 }
 
 .card{
-    background:white;
+    background:rgb(71, 38, 255);
     padding:25px;
     border-radius:10px;
     box-shadow:0 2px 8px rgba(0,0,0,.1);
@@ -140,7 +140,7 @@ section{
 
 .membro{
     flex:1 1 180px;
-    background:#e9d5ff;
+    background:#014674;
     padding:25px;
     border-radius:10px;
     text-align:center;

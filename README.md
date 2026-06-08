@@ -107,6 +107,6 @@ Desvantagens:
 ## Autor
 
 Mateus Martims Perees
-Luiz Eduardo Oliveira Mendes, 
-Luís Henrique Rodrigues Silva,  
+,Luiz Eduardo Oliveira Mendes
+,Luís Henrique Rodrigues Silva  
 ,Maria Luiza Ramalho Almeida
