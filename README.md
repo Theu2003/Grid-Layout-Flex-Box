@@ -1,4 +1,3 @@
-<img width="661" height="723" alt="Captura de tela 2026-06-08 004519" src="https://github.com/user-attachments/assets/ac64b04f-0025-4f4c-a709-b1a596ee227b" />
 # Grid Layout x Flexbox
 
 ## Descrição
@@ -101,14 +100,11 @@ Desvantagens:
 ![Desktop](https://chatgpt.com/c/imagens/tela-inicial.png)
 
 ### Tela Mobile
-![Mobile 1](Imagem/Captura de tela 2026-06-08 004519.png)
+![Mobile 1](<img width="667" height="727" alt="Captura de tela 2026-06-08 004456" src="https://github.com/user-attachments/assets/2ad70784-4d71-4464-92ab-f1069fc161d2" />)
 ![Mobile 2](Imagem/Captura de tela 2026-06-08 004456.png)
 
 ---
 
 ## Autor
 
-Mateus Martims Perees
-,Luiz Eduardo Oliveira Mendes
-,Luís Henrique Rodrigues Silva  
-,Maria Luiza Ramalho Almeida
+Mateus Martims Perees, Luiz Eduardo Oliveira Mendes, Luís Henrique Rodrigues Silva, Maria Luiza Ramalho Almeida
