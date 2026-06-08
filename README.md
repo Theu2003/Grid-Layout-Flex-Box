@@ -1,3 +1,4 @@
+<img width="661" height="723" alt="Captura de tela 2026-06-08 004519" src="https://github.com/user-attachments/assets/ac64b04f-0025-4f4c-a709-b1a596ee227b" />
 # Grid Layout x Flexbox
 
 ## Descrição
